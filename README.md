@@ -9,8 +9,6 @@ If you find this project helpful, please consider giving it a star ⭐
 ```
 
 
-![Overview](./figs/overview.png)
-
  We leave our system information for reference.
 
     python: 3.10.14
