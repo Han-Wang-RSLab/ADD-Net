@@ -29,7 +29,7 @@ pip install timm==0.9.8 thop efficientnet_pytorch==0.7.1 einops grad-cam==1.4.8 
 Please construct the datasets following these steps:
 
 - Download the datasets from their sources. 
-You can download the processed xView and VisDrone-Datasets and HIT-UAV-Datasets  from this Web [link](https://github.com/VisDrone/VisDrone-Dataset) and [link](https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset).
+You can download the processed xView and VisDrone-Datasets and HIT-UAV-Datasets  from this Web [link](https://github.com/VisDrone/VisDrone-Dataset)， [link](https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset) and [link](https://downloads.greyc.fr/vedai/).
 
 - Convert the annotation files into TXT-format annotations.
 
@@ -57,13 +57,12 @@ python train.py
 - Valing with dataset
 python val.py
 ```
-- Self-distillation process
+- Hybrid Knowledge Distillation of ADD-Net
 ```
 python distill.py
 ```
-- get_COCO_metrice
-```
-get_COCO_metrice.py
+
+
 ## Result Visualization 
 ```
 ![](/figs/experiment.png)
