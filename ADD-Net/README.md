@@ -65,8 +65,8 @@ python distill.py
 
 ## Result Visualization 
 ```
-![]([/https://github.com/Han-Wang-RSLab/ADD-Net/blob/main/ADD-Net/Comparative.pdf])
+![](https://github.com/Han-Wang-RSLab/ADD-Net/blob/main/ADD-Net/Comparative.pdf)
 ## Demo prediction
 
-![]([/figs/prediction.png](https://github.com/Han-Wang-RSLab/ADD-Net/blob/main/ADD-Net/vedai.pdf))
+![](figs/prediction.png](https://github.com/Han-Wang-RSLab/ADD-Net/blob/main/ADD-Net/vedai.pdf)
 
