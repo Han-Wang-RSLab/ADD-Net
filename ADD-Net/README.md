@@ -1,4 +1,4 @@
-# FDKD-Net: Diffusion-Based Feature Fusion with Dual-Path Knowledge Transfer for Aerial Remote Sensing Detection
+# ADD-Net: An Improved RT-DETR Framework via Knowledge Distillation for UAV Small Target Detection
 
 By Han Wang, Yiqing Li, and Wen Zhou
 
