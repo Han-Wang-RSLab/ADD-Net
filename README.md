@@ -1,4 +1,4 @@
-# ADD-Net: An Improved RT-DETR Framework via Knowledge Distillation for UAV Target Detection
+# ADD-Net: An Improved RT-DETR Framework via Knowledge Distillation for UAV Small Target Detection
 
 By Han Wang, Yiqing Li, and Wen Zhou
 
