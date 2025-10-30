@@ -22,12 +22,14 @@ If you find this project helpful, please consider giving it a star ⭐
 Other operating environments    
 
 pip install timm==0.9.8 thop efficientnet_pytorch==0.7.1 einops grad-cam==1.4.8 dill==0.3.6 albumentations==1.3.1 pytorch_wavelets==1.3.0 tidecv PyWavelets -i https://pypi.tuna.tsinghua.edu.cn/simple
+```
+```
 
-## Dataset Preparation
+##Dataset Preparation
 Please construct the datasets following these steps:
 
 - Download the datasets from their sources. 
-You can download the processed xView and VisDrone-Datasets and HIT-UAV-Datasets  from this Web ![](https://github.com/VisDrone/VisDrone-Dataset)， [link](https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset) and [link](https://downloads.greyc.fr/vedai/).
+You can download the processed xView and VisDrone-Datasets and HIT-UAV-Datasets  from this Web ![](https://github.com/VisDrone/VisDrone-Dataset)， [link](https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset). and [link](https://downloads.greyc.fr/vedai/).
 
 
 - Convert the annotation files into TXT-format annotations.
