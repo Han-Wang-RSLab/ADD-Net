@@ -33,14 +33,14 @@ You can download the processed xView and VisDrone-Datasets and HIT-UAV-Datasets 
 
 - Modify the dataset path setting within the script.
 
-```
+
 'dateset's name': {
     'train_img'  : '',  #train image dir
     'train_Label' : '',  #train txt format label file
     'val_img'    : '',  #val image dir
     'val_label'   : '',  #val txt format label file
 },
-```
+
 - Add domain adaptation direction within the script [__init__.py](./datasets/__init__.py). During training, the domain adaptation direction will be automatically parsed and corresponding data will be loaded. In our paper, we provide four adaptation directions for remote sensing scenarios.
 ```
 
