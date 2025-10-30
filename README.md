@@ -2,7 +2,7 @@
 
 By Han Wang, Yiqing Li, and Wen Zhou, Hao Zhang
 
-This repository contains the implementation accompanying our paper FDKD-Net: Diffusion-Based Feature Fusion with Dual-Path Knowledge Transfer for Aerial Remote Sensing Detection.
+This repository contains the implementation accompanying our paper ADD-Net: Adaptive Dynamic Architecture with Knowledge Distillation for UAV Small Object Detection.
 
 If you find this project helpful, please consider giving it a star ⭐
 
